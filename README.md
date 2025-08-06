@@ -1,7 +1,7 @@
 # 🍔 McDonald's Real-time Data Ingestion Pipeline with Kafka & MongoDB
 
 <p align="center">
-  <img src="assets/Mcdonalds.png" alt="Pipeline Diagram" width="700"/>
+  <img src="/Mcdonalds.png" alt="Pipeline Diagram" width="700"/>
 </p>
 
 This project showcases a real-time data ingestion architecture designed for McDonald's order and payment systems.
