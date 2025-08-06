@@ -1,0 +1,19 @@
+=== Confluent Cloud API key ===
+
+API key:
+45Y575A7HSGQCYB6
+
+API secret:
+cfltyClsuS1oacMsbyrIgZdTPutOJJD0OOTdQf9sllDrmRhwsMMHhTFQqUsCLJow
+
+Resource scope:
+Schema Registry
+
+Environment:
+env-y9k3j7
+
+Resource:
+lsrc-y1y7po
+
+Endpoint:
+https://psrc-zjovo6o.centralindia.azure.confluent.cloud
