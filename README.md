@@ -1,5 +1,9 @@
 # 🍔 McDonald's Real-time Data Ingestion Pipeline with Kafka & MongoDB
 
+<p align="center">
+  <img src="assets/Mcdonalds.png" alt="Pipeline Diagram" width="700"/>
+</p>
+
 This project showcases a real-time data ingestion architecture designed for McDonald's order and payment systems.
 
 Using **Apache Kafka**, streaming data from `Orders` and `Payments` topics is ingested and processed via **KSQL** to generate a **Joined Stream** combining transactional details. The enriched data is then written to **MongoDB** using **Kafka Connect MongoDB Sink**, enabling real-time analytics and visualization through a **MongoDB-powered dashboard**. 
