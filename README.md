@@ -22,5 +22,3 @@ Development and stream simulation are handled via **Visual Studio Code** with a 
 
 ---
 
-## 📁 Project Structure
-
